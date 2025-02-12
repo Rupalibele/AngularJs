@@ -1,0 +1,20 @@
+{
+  "name": "testapp_anjular",
+  "version": "1.0.0",
+  "description": "Angular and Typescript Application.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Rupali Bele",
+  "license": "ISC",
+  "dependencies": {
+    "@types/angular-route": "^1.7.6",
+    "angular": "^1.8.3",
+    "angular-route": "^1.8.3"
+  },
+  "devDependencies": {
+    "@types/angular": "^1.8.9",
+    "typescript": "^5.7.3"
+  }
+}
